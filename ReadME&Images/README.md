@@ -2,7 +2,7 @@
 
 <img src = README&Images/Pic1.png width=500>
 
-<img src = README&Images/Pic2.png width=500>
+<img src = Pic2.png width=500>
 
 ## Decription
 A prototype portfolio containing relevant information of Joseph Penland for seeking employment.
