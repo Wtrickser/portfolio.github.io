@@ -1,6 +1,6 @@
 ## Portfolio
 
-<img src = README&Images/Pic1.png width=500>
+<img src = Pic1.png width=500>
 
 <img src = Pic2.png width=500>
 
