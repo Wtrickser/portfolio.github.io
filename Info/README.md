@@ -1,17 +1,46 @@
 ## Portfolio
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/wtrickster/ReadME BOT)
+
+# Description
+
+A prototype portfolio containing relevant information of Joseph Penland for seeking employment.
+
+# Table of Contents 
+
+* [Installation](#installation)
+
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Tests](#tests)
+
+* [Questions](#questions)
+
+# Installation
+
+N/A
+
+# Usage
 
 <img src = Pic1.png width=500>
 
 <img src = Pic2.png width=500>
 
-## Decription
-A prototype portfolio containing relevant information of Joseph Penland for seeking employment.
+# License
 
+MIT license
 
-## Deplayment
-https://wtrickser.github.io/portfolio/
+# Contributing
 
-## Contact
-JSPenland97@gmail.com
+​Contributors: Wtrickster
 
-©2021 MIT
+# Tests
+
+Launch in browser
+
+# Questions
+
+Questions or issues, contact wtrickster at JSPenland97@gmail.com.
